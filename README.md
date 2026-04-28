@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/vissort.vim](https://git.navicore.tech/navicore/vissort.vim).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 vissort.vim
 ===========
 
@@ -26,4 +31,3 @@ I suggest using `vis` with `vissort`:
   'navicore/vissort.vim',
 }
 ```
-
